@@ -2,7 +2,7 @@
   import user from "../../../assets/images/presentation-user.png";
 </script>
 
-<section id="presentation">
+<section id="presentation" class="flex items-center">
   <div class="left-presentation">
     <h3>Want anything to be easy with LaslesVPN</h3>
     <p>

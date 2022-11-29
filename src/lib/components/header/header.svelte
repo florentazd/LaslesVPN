@@ -4,7 +4,7 @@
   import Features from "./features.svelte";
 </script>
 
-<section id="header">
+<section id="header" class="pt-20">
   <Presentation />
   <Numbers />
   <Features />
